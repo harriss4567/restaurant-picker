@@ -29,7 +29,7 @@ params = {
     'radius': 5000,
     'sort_by': 'rating',
     'open_now': True,
-    'limit': 10
+    'limit': 30
 }
 
 # Obtain Business information
